@@ -321,16 +321,17 @@ cd kanban-frontend
 # hoặc python -m http.server 8080
 ```
 
-## Tiến độ học tập
+## Nội dung học tập
 
-- [x] Buổi 1: Setup môi trường
-- [ ] Buổi 2: Git basics
-- [ ] Buổi 3: OOP & Kanban design
+- [ ] Buổi 1: Setup môi trường
+- [ ] Buổi 2: Python basics + OOP Basics
+- [ ] Buổi 3: Kanban analysis and API design
 - [ ] Buổi 4: FastAPI implementation
 - [ ] Buổi 5: Database integration
 - [ ] Buổi 6: JWT authentication
-- [ ] Buổi 7: Frontend development
-- [ ] Buổi 8: Deployment
+- [ ] Buổi 7: Frontend development basics
+- [ ] Buổi 8: Frontend development advance
+- [ ] Buổi 9: Deployment
 
 ## Đóng góp
 
